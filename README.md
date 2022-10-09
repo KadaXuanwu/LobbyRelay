@@ -11,6 +11,6 @@ To use it, the following steps have to be done:
 
 At this point, you should be able to build the game and join the same lobby on multiple clients.
 
-The script Database.cs contains some useful variables like MaxPlayers, ClientIds, InGame, etc., which will also updated whenever a player joins or leaves.
+The script Database.cs contains some useful variables like MaxPlayers, ClientIds, InGame, etc., which will also get updated whenever a player joins or leaves.
 
 Have fun!
