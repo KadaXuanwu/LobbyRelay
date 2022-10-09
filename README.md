@@ -1,5 +1,5 @@
 # LobbyRelay
-This unitypackage provides an Implementation of the Lobby and Relay services. It can be used to get started faster with Unity multiplayer, and is meant to be used together with Netcode for GameObjects.
+This unitypackage provides an implementation of the Lobby and Relay services. It can be used to get started faster with Unity multiplayer, and is meant to be used together with Netcode for GameObjects.
 The package comes with scenes for creating / joining lobbies and also a lobby room.
 
 To use it, the following steps have to be done:
@@ -11,6 +11,7 @@ To use it, the following steps have to be done:
 
 At this point, you should be able to build the game and join the same lobby on multiple clients.
 
+The 'Game' scene just serves as an example and can be replaced by your game scene/s.
 The script Database.cs contains some useful variables like MaxPlayers, CurrentPlayerCount, ClientIds, InGame, etc., which will also get updated accordingly.
 
 Have fun!
