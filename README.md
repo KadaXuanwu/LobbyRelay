@@ -11,7 +11,7 @@ To use it, the following steps have to be done:
 
 At this point, you should be able to build the game and join the same lobby on multiple clients.
 
-The 'Game' scene just serves as an example and can be replaced by your game scene/s.
+The 'Game' scene just serves as an example scene and can be replaced by your game scene/s.
 The script Database.cs contains some useful variables like MaxPlayers, CurrentPlayerCount, ClientIds, InGame, etc., which will also get updated accordingly.
 
 Have fun!
