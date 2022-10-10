@@ -3,7 +3,7 @@ This unitypackage provides an implementation of the Lobby and Relay services. It
 The package comes with scenes for creating / joining lobbies and also a lobby room.
 
 To use it, the following steps have to be done:
-- Log in to Unity Gaming Services, go to the 'Projects' tab and create a new project. Then go to the 'Multiplayer' tab and activate Lobby and Relay  https://dashboard.unity3d.com/organizations/9071185473635/settings/projects
+- Log in to Unity Gaming Services, go to the 'Projects' tab and create a new project. Then go to the 'Multiplayer' tab and activate Lobby and Relay.  https://dashboard.unity3d.com/organizations/9071185473635/settings/projects
 - In your Unity project, make sure you have the packages 'Lobby', 'Relay', 'Netcode for GameObjects' and 'Authentication' from the Unity Registry installed.
 - While installing the packages, you should get prompted to link your Unity project to the Gaming Services. If not, you can do it under Project Settings -> Services.
 - Import the LobbyRelay.unitypackage into your project.
