@@ -15,3 +15,5 @@ The 'Game' scene just serves as an example scene and can be replaced by your gam
 The script Database.cs contains some useful variables like MaxPlayers, CurrentPlayerCount, ClientIds, InGame, etc., which will also get updated accordingly.
 
 Have fun!
+
+(last updated: 22 October 2022)
